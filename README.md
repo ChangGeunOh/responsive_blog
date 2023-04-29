@@ -1,6 +1,10 @@
 # responsive_blog
 
-A new Flutter project.
+Responsive Blog Theme Using Flutter BLoC
+
+
+YouTube : https://youtu.be/YvGX4h7Bpic
+
 
 ## Getting Started
 
